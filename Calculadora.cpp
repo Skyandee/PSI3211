@@ -5,7 +5,7 @@
 
 #define PI 3.14159265
 
-// Made with love - by Miaut
+// Made with love - by Miaut <3
 
 
 void Clear () {
