@@ -5,6 +5,8 @@
 
 #define PI 3.14159265
 
+// Made with love - by Miaut
+
 
 void Clear () {
 	std::cout << "\x1B[2J\x1B[H";
@@ -206,8 +208,7 @@ void DivisorC () {
 
 }
 
-
-int main () {
+int main() {
 
 	int option, i = 0;
 
